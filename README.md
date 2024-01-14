@@ -1,1 +1,2 @@
-xlsxFilesディレクトリにxlsxファイルを格納して、`node index.js`を実行すると jsonOutputファイルに出力されるよ
+xlsxFilesディレクトリにxlsxファイルを格納して`node index.js`を実行すると、jsonOutputファイルに出力されるよ
+
